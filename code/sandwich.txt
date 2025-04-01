@@ -1,0 +1,23 @@
+estimate: 25 lines
+
+def ingredients
+    bread
+    PB jar
+    jelly jar
+    knife
+    new knife
+
+pick up two pieces of bread
+lay two pieces of bread next to each other in front of you
+open PB jar
+pick up knife
+insert knife into PB jar and scoop some PB onto knife
+remove knife and spread PB evenly on one side of first slice of bread
+set down knife
+open jelly jar
+pick up new knife
+insert new knife into jelly jar and scoop some jelly onto new knife
+remove new knife and spread jelly evenly on one side of second slice of bread
+set down new knife
+pick up PB slice of bread
+put PB slice on top of jelly slice with PB side touching jelly side
